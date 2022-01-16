@@ -1,0 +1,46 @@
+#display{
+    background-color: black;
+    color:orangered;
+    height: 250px;
+    width: 250px;
+    font-size: 60px;
+    text-align:right;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+}
+tbody{
+    width: 300px;
+    border: none;
+}
+table{
+    width: 250px;
+    height: 200px;
+    border-style:none;
+    background-color: black;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius:5% ;
+}
+td{
+    border-style: none;
+}
+button{
+    width: 57px;
+    height: 57px;
+    border-radius: 50%;
+    background-color:grey;
+    font-weight: bolder;
+}
+#B{
+    width: 120px;
+}
+#C{
+    width: 55px;
+}
+#y{
+    background-color: red;
+}
+#a{
+    background-color: orangered;
+}

@@ -1,0 +1,5 @@
+-->select class on css .,id-#
+-->child- by  (>) read from right to left.
+-->parent>child
+-->(~)tilda- selecting sibling tag.
+-->(+) adjusent siblings
